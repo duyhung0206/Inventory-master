@@ -2,3 +2,7 @@
 .htaccess.sample
 .modgit/
 .modman/
+/api.php
+nbproject/
+pear
+pear/
